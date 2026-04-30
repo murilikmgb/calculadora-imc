@@ -1,0 +1,27 @@
+#caixa{
+    width: 50%;
+    background-color: rgb(199, 199, 169);
+    margin-left: 25%;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 -4px 8px rgba(0,0,0,0.7);
+}
+
+input{
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: large;
+    border-radius: 15px;
+}
+
+button{
+    background-color: rgb(136, 98, 72);
+    color: azure;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+}
