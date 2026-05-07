@@ -18,7 +18,7 @@ input{
     border-radius: 15px;
 }
 
-button{
+#botao{
     background-color: rgb(136, 98, 72);
     color: azure;
     padding: 10px;
